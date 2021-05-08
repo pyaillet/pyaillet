@@ -6,5 +6,4 @@
 - 🌱 I'm currently learning [Rust](https://www.rust-lang.org/).
 - 🔏 I also like [CTF](https://en.wikipedia.org/wiki/Capture_the_flag) and should share some write-ups.
 - 📹 I gave some presentations which were [recorded](https://www.youtube.com/playlist?list=PLt4ek4WeGOjjmzOmyMHLHgqUpuqxgOOeH)
-- 📝 I sometimes write [blog posts](https://pyaillet.gitlab.io/blog/)
 - 📫 You can find me on [🐦 Twitter](https://twitter.com/pyaillet) & [💻 LinkedIn](https://www.linkedin.com/in/pyaillet/)
