@@ -5,5 +5,5 @@
 - 💻 I can use many programming Languages: [Golang](https://golang.org/), [Python3](https://www.python.org/), [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript), [Java](https://www.java.com/fr/), ...
 - 🌱 I'm currently learning [Rust](https://www.rust-lang.org/).
 - 🔏 I also like [CTF](https://en.wikipedia.org/wiki/Capture_the_flag) and should share some write-ups.
-- 📹 I gave some presentations which were [recorded](https://www.youtube.com/playlist?list=PLt4ek4WeGOjjmzOmyMHLHgqUpuqxgOOeH)
+- 📹 I gave some presentations which were [recorded](https://www.youtube.com/playlist?list=PLdYGN5pGe8aydPeLuKRfeNSDQZ08s7u5i)
 - 📫 You can find me on [Mastodon](@pyaillet@piaille.fr) & [💻 LinkedIn](https://www.linkedin.com/in/pyaillet/)
