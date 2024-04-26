@@ -7,4 +7,4 @@
 - 🔏 I also like [CTF](https://en.wikipedia.org/wiki/Capture_the_flag) and should share some write-ups.
 - 📹 I gave some presentations which were [recorded](https://www.youtube.com/playlist?list=PLdYGN5pGe8aydPeLuKRfeNSDQZ08s7u5i)
 - 📫 You can find me on [Mastodon](@pyaillet@piaille.fr) & [💻 LinkedIn](https://www.linkedin.com/in/pyaillet/)
-- 🏅 I collect [some badges](https://www.credly.com/users/pierre-yves-aillet/badges), but do not take it too seriously...
+- 🏅 I collect [some badges](https://www.credly.com/users/pierre-yves-aillet/badges).
